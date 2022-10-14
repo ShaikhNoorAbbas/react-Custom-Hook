@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+button:hover
+{
+    margin: 5px;
+    padding: 8px;
+    cursor:pointer;
+    background-color: brown;
+    color: cornsilk;
+}
+button
+{
+    margin: 5px;
+    padding: 8px;
+}
